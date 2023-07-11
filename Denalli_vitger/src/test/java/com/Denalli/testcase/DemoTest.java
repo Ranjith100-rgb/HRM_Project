@@ -9,4 +9,10 @@ public class DemoTest
 	{
 		System.out.println("Hi! Welcome to GitHub");
 	}
+
+	@Test
+	public void test2()
+	{
+		System.out.println("you were able to download");
+	}
 }
